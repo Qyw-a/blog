@@ -1,1 +1,0 @@
-import{_ as e}from"./index.22283d88.js";import{d as _,e as r}from"./vendor.f96a379a.js";const t={};function a(o,s,n,c,d,p){return _(),r("div",null,"\u4E2A\u4EBA\u4E2D\u5FC3")}var l=e(t,[["render",a],["__scopeId","data-v-cf3e7664"]]);export{l as default};
